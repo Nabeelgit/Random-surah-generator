@@ -19,6 +19,7 @@
   transition: all 0.4s ease 0s;
 }
 
+
 @media (max-width: 500px) {
   #generator {
     color: #fff !important;
